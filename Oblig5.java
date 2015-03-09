@@ -536,7 +536,6 @@ abstract class Square {
     return next;
   }
 
-
 }
 
 class Given extends Square {
